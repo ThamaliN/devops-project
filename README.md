@@ -12,5 +12,5 @@ Browse Restaurants Feature
 - Pizza Hut
 - McDonalds
 - KFC
-  #Added README update AB#6
+  Deployment and DevOps
 
