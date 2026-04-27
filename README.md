@@ -23,3 +23,4 @@ Browse Restaurants Feature
 Order Processing
 Restaurant Browsing
 
+new
