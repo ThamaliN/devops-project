@@ -1,4 +1,6 @@
 name: Label & comment issues #the name of the workflow
+permissions:
+  issues: write
 on: # This action will trigger when an issue is reopened or opened.
   issues:
     types:
